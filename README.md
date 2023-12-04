@@ -46,3 +46,32 @@ Step 2-Once the webapp is created ,see the default URL of the website , Also in 
 ![f](https://github.com/ssquadri/Webapp-Azure-Static/blob/6865cfa4240b2265b32acde724b2472faf5f1369/our%20website%20in%20prod%20env.png)
 
 
+
+
+![workflow of github](https://github.com/ssquadri/Webapp-Azure-Static/blob/f80ded7a4d4f4a57e241392aff3ba9772b9487a2/github%20CICD%20pipeline%20runs%20and%20our%20HTML%20code%20is%20in%20production%20env.png)
+
+
+
+
+Step 3- Now we made some changes to the original index.html file and made the background color to Pink , Then we commit the file to the main branch and made it to the prod env (this is not how it's done in real time scenarios, Instead we usually make branch) Now lets see if the CI/CD pipleline is working
+
+
+
+
+![htmlcode](https://github.com/ssquadri/Webapp-Azure-Static/blob/f80ded7a4d4f4a57e241392aff3ba9772b9487a2/we%20changed%20code%20and%20made%20background%20color%20pink.png)
+
+
+
+Step 4- Now the CI/CD works fine and we can see the github workflows and also the background color has been updated through it.
+
+
+
+
+![cicd](https://github.com/ssquadri/Webapp-Azure-Static/blob/f80ded7a4d4f4a57e241392aff3ba9772b9487a2/pink%20background%20edit%20pushed%20through%20github.png)
+
+
+
+
+![cicc](https://github.com/ssquadri/Webapp-Azure-Static/blob/f80ded7a4d4f4a57e241392aff3ba9772b9487a2/changes%20done%20to%20prod%20env.png)
+
+
