@@ -1,0 +1,24 @@
+<html>
+<head>
+<title> </title>
+</head>
+
+
+<body bgcolor = 'SpringGreen'>
+
+	<br><br>
+
+	<center>
+		<h1><font color="navy">This is an Azure  static webapp hosted website</h1>
+		
+		<h1><font color="maroon">Microsoft Azure PaaS</h1>
+	<br><br>
+		<marquee><h2><font color="black"> Made by- Syed Sibghatullah Quadri</font></h2></marquee>
+        <br><br>
+	
+</center>
+	
+
+</body>
+</html>
+
