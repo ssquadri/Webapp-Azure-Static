@@ -72,6 +72,18 @@ Step 4- Now the CI/CD works fine and we can see the github workflows and also th
 
 
 
+
+
+
+
+![saahfjg](https://github.com/ssquadri/Webapp-Azure-Static/blob/131a32d10e77ee5738f60d9dcc2ad8b56388be6a/deployment%20history.png)
+
+
+
+
+
+
+
+
+
 ![cicc](https://github.com/ssquadri/Webapp-Azure-Static/blob/f80ded7a4d4f4a57e241392aff3ba9772b9487a2/changes%20done%20to%20prod%20env.png)
-
-
